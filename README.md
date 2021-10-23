@@ -3,4 +3,4 @@ This repo contains code to dynamically generate Tata Sky m3u playlist on request
 
 ## Deploy to Vercel
 1. Click the button below to deploy the serverless function to Vercel.<br>
-<a href="https://vercel.com/new/clone?repository-url=https://github.com/saifshaikh1805/tata-sky-m3u-dynamic.git"><img src="https://vercel.com/button" alt="Deploy with Vercel"/></a>
+<a target="_blank" href="https://vercel.com/new/clone?repository-url=https://github.com/saifshaikh1805/tata-sky-m3u-dynamic.git"><img src="https://vercel.com/button" alt="Deploy with Vercel"/></a>
