@@ -45,7 +45,9 @@ const getAllChans = async () => {
     myHeaders.append("x-app-id", "ott-app");
     myHeaders.append("x-app-key", "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6ImR2ci11aSIsImtleSI6IiJ9.XUQUYRo82fD_6yZ9ZEWcJkc0Os1IKbpzynLzSRtQJ-E");
     myHeaders.append("x-subscriber-name", sName);
-    myHeaders.append("x-api-key", "YVJNVFZWVlZ7S01UZmRZTWNNQ3lHe0RvS0VYS0NHSwA");
+    //myHeaders.append("x-api-key", "YVJNVFZWVlZ7S01UZmRZTWNNQ3lHe0RvS0VYS0NHSwA");
+    myHeaders.append("x-api-key", "9a8087f911b248c7945b926f254c833b");
+    myHeaders.append("x-device-id", "YVJNVFZWVlZ7S01UZmRZTWNNQ3lHe0RvS0VYS0NHSwA");
     myHeaders.append("x-device-platform", "MOBILE");
     myHeaders.append("x-device-type", "ANDROID");
     myHeaders.append("Content-Type", "application/json");
